@@ -1,9 +1,24 @@
-table , th , td {
+table {
   border: 3px, solid, green;
   color: blue;
 }
 
-ul , li {
+th {
+  border: 3px, solid, green;
+  color: blue;
+}
+
+td {
+  border: 3px, solid, green;
+  color: blue;
+}
+
+ul {
+  background-color: rebeccapurple;
+  text-align: center;
+}
+
+il {
   background-color: rebeccapurple;
   text-align: center;
 }
